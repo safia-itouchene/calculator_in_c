@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1613985771 source:c:\users\hp\desktop\acad\vsc\code blocks\projet_algo\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1613984484 source:c:\users\hp\desktop\acad\vsc\code blocks\projet_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1613985499 c:\users\hp\desktop\acad\vsc\code blocks\projet_algo\fonctions.h
+
